@@ -7,7 +7,7 @@ print("""
 | |__| (_| | | (__| |_| | | (_| | || (_) | |    
  \____\__,_|_|\___|\__,_|_|\__,_|\__\___/|_|    
 
-         Ultimate Calculator 10002
+         Advanced Calculator
 ---------------------------------------------
 Operators: +, -, *, /, ^, %, //, sqrt, abs,
            log, log10, sin, cos, tan, !, last
